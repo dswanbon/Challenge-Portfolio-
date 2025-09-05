@@ -77,7 +77,7 @@ Studies have also shown that diversification benefits persist beyond 20 assets, 
 
 Conclusion:
 
-I conclude that I successfully created a passive portfolio that generally beats the market. My portfolio also reacts somewhat weakly to movements in the S&P 500, and illustrates that optimal portfolio models can be a viable investment strategy when complemented by robust statistics and weight restrictions that resemble what I used for my model. I also find that the Sortino ratio functions well as a quantitative model. Additionally I highlight some areas of improvement for my model that could further boost its Sharpe ratio. 
+I conclude that I successfully created a passive portfolio that generally beats the market. My portfolio also reacts somewhat weakly to movements in the S&P 500, and illustrates that optimal portfolio models can be a viable investment strategy when complemented by robust statistics and weight restrictions that resemble what I used for my model. I also find that the maximum Sortino ratio functions well as a quantitative portfolio model. Additionally I highlight some areas of improvement for my model that could further boost its Sharpe ratio. 
 
 
 
